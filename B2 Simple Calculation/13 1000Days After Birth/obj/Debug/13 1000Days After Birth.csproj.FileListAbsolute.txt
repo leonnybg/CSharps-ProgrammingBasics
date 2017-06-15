@@ -1,0 +1,5 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\13 1000Days After Birth\bin\Debug\13 1000Days After Birth.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\13 1000Days After Birth\bin\Debug\13 1000Days After Birth.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\13 1000Days After Birth\bin\Debug\13 1000Days After Birth.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\13 1000Days After Birth\obj\Debug\13 1000Days After Birth.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\13 1000Days After Birth\obj\Debug\13 1000Days After Birth.pdb

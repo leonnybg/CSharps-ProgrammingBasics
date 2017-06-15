@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\bin\Debug\02 Expression.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\bin\Debug\02 Expression.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\bin\Debug\02 Expression.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\obj\Debug\02 Expression.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\obj\Debug\02 Expression.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\02 Expression\obj\Debug\02 Expression.pdb

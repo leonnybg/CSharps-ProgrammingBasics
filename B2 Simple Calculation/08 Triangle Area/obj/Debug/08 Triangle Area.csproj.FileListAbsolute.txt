@@ -1,0 +1,5 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\08 Triangle Area\bin\Debug\08 Triangle Area.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\08 Triangle Area\bin\Debug\08 Triangle Area.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\08 Triangle Area\bin\Debug\08 Triangle Area.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\08 Triangle Area\obj\Debug\08 Triangle Area.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\08 Triangle Area\obj\Debug\08 Triangle Area.pdb

@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\bin\Debug\02 InchesToCentimeters.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\bin\Debug\02 InchesToCentimeters.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\bin\Debug\02 InchesToCentimeters.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\obj\Debug\02 InchesToCentimeters.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\obj\Debug\02 InchesToCentimeters.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\02 InchesToCentimeters\obj\Debug\02 InchesToCentimeters.pdb

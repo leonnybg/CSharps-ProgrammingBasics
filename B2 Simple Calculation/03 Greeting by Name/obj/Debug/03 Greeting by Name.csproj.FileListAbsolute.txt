@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\bin\Debug\03 Greeting by Name.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\bin\Debug\03 Greeting by Name.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\bin\Debug\03 Greeting by Name.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\obj\Debug\03 Greeting by Name.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\obj\Debug\03 Greeting by Name.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\03 Greeting by Name\obj\Debug\03 Greeting by Name.pdb

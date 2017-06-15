@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.pdb

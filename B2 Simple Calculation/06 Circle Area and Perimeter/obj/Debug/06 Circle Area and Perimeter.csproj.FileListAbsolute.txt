@@ -1,0 +1,1 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\06 Circle Area and Perimeter\bin\Debug\06 Circle Area and Perimeter.exe.config

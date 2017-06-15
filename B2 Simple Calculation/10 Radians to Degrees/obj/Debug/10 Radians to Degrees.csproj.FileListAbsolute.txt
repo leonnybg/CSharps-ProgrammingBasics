@@ -1,0 +1,1 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\10 Radians to Degrees\bin\Debug\10 Radians to Degrees.exe.config

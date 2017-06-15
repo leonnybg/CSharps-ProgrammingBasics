@@ -1,0 +1,1 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\04. ConcatenateNumberWithText\bin\Debug\_04.ConcatenateNumberWithText.exe.config

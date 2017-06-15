@@ -1,0 +1,1 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\05 Trapeziod Area\bin\Debug\05 Trapeziod Area.exe.config

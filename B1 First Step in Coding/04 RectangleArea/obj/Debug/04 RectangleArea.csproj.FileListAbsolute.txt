@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\bin\Debug\04 RectangleArea.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\bin\Debug\04 RectangleArea.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\bin\Debug\04 RectangleArea.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\obj\Debug\04 RectangleArea.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\obj\Debug\04 RectangleArea.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\04 RectangleArea\obj\Debug\04 RectangleArea.pdb

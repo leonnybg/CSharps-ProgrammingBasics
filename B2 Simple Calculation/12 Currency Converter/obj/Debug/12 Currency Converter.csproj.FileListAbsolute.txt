@@ -1,0 +1,1 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\12 Currency Converter\bin\Debug\12 Currency Converter.exe.config

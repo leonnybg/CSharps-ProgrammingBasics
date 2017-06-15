@@ -1,0 +1,5 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum20 ConsoleWrite\bin\Debug\03 Num1ToNum20 ConsoleWrite.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum20 ConsoleWrite\bin\Debug\03 Num1ToNum20 ConsoleWrite.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum20 ConsoleWrite\bin\Debug\03 Num1ToNum20 ConsoleWrite.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum20 ConsoleWrite\obj\Debug\03 Num1ToNum20 ConsoleWrite.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum20 ConsoleWrite\obj\Debug\03 Num1ToNum20 ConsoleWrite.pdb

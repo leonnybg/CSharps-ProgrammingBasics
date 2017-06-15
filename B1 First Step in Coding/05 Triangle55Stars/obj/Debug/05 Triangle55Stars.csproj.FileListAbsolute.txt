@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\bin\Debug\05 Triangle55Stars.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\bin\Debug\05 Triangle55Stars.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\bin\Debug\05 Triangle55Stars.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\obj\Debug\05 Triangle55Stars.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\obj\Debug\05 Triangle55Stars.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\05 Triangle55Stars\obj\Debug\05 Triangle55Stars.pdb

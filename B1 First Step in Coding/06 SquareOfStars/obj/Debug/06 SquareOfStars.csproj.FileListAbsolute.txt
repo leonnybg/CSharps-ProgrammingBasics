@@ -1,0 +1,5 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\06 SquareOfStars\bin\Debug\06 SquareOfStars.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\06 SquareOfStars\bin\Debug\06 SquareOfStars.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\06 SquareOfStars\bin\Debug\06 SquareOfStars.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\06 SquareOfStars\obj\Debug\06 SquareOfStars.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\06 SquareOfStars\obj\Debug\06 SquareOfStars.pdb

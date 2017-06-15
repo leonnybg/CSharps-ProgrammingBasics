@@ -1,0 +1,5 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\09 Celsius to Fahrenheit\bin\Debug\09 Celsius to Fahrenheit.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\09 Celsius to Fahrenheit\bin\Debug\09 Celsius to Fahrenheit.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\09 Celsius to Fahrenheit\bin\Debug\09 Celsius to Fahrenheit.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\09 Celsius to Fahrenheit\obj\Debug\09 Celsius to Fahrenheit.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B2 Simple Calculation\09 Celsius to Fahrenheit\obj\Debug\09 Celsius to Fahrenheit.pdb

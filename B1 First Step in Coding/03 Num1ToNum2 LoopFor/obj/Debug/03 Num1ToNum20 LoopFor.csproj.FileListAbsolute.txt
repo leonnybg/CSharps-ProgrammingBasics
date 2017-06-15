@@ -1,0 +1,6 @@
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\bin\Debug\03 Num1ToNum2 LoopFor.exe.config
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\bin\Debug\03 Num1ToNum2 LoopFor.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\bin\Debug\03 Num1ToNum2 LoopFor.pdb
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\obj\Debug\03 Num1ToNum20 LoopFor.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\obj\Debug\03 Num1ToNum2 LoopFor.exe
+C:\Visual Studio Project elena\CSharp Programming Basic\B1 First Step in Coding\03 Num1ToNum2 LoopFor\obj\Debug\03 Num1ToNum2 LoopFor.pdb
